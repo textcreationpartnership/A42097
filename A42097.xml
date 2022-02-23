@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached in the Cathedral Church of Durham upon the revival of the ancient laudable practice of that, and some other cathedrals, in having sermons on Wednesdays and Fridays, during Advent and Lent / by D.G. ...</title>
+            <author>Grenville, Denis, 1637-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42097</idno>
+            <idno type="STC">Wing G1941</idno>
+            <idno type="STC">ESTC R2757</idno>
+            <idno type="EEBO-CITATION">12781659</idno>
+            <idno type="OCLC">ocm 12781659</idno>
+            <idno type="VID">93822</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93822)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 983:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached in the Cathedral Church of Durham upon the revival of the ancient laudable practice of that, and some other cathedrals, in having sermons on Wednesdays and Fridays, during Advent and Lent / by D.G. ...</title>
+                  <author>Grenville, Denis, 1637-1703.</author>
+               </titleStmt>
+               <extent>[8], 22, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Clavel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Advent sermons.</term>
+               <term>Lenten sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93822:1"/>
+            <pb facs="tcp:93822:1" rendition="simple:additions"/>
+            <p>A SERMON PREACHED IN THE <hi>Cathedral Church</hi> OF DURHAM, UPON The Revival of the Ancient Laudable Pra<g ref="char:EOLhyphen"/>ctice of that, and ſome other Cathedrals, in ha<g ref="char:EOLhyphen"/>ving Sermons on <hi>Wedneſdays</hi> and <hi>Fridays,</hi> During <hi>ADVENT</hi> and <hi>LENT.</hi>
+            </p>
+            <p>By <hi>D. G.</hi> D. D. D. D.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Robert Clavel,</hi> at the <hi>Peacock</hi> in St. <hi>Pauls Church-Yard.</hi> MDCLXXXVI.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:93822:2"/>
+            <pb facs="tcp:93822:2"/>
+            <head>
+               <hi>To the Right Revenend Father in God, the Right Honoura<g ref="char:EOLhyphen"/>ble</hi> NATHANAEL <hi>Lord Biſhop of</hi> DURHAM, <hi>and Clerk of the Cloſet to His Majeſty.</hi>
+            </head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>YOU were pleaſed in your Viſitation of our Ca<g ref="char:EOLhyphen"/>thedral Church this laſt Summer, to recom<g ref="char:EOLhyphen"/>mend to my Self and Brethren, the <hi>revival of an Ancient Religious Cuſtom of Sermons on</hi> Wed<g ref="char:EOLhyphen"/>neſdays <hi>and</hi> Fridays <hi>in</hi> Advent <hi>and</hi> Lent.</p>
+            <p>With which Pious Motion we have not only readily complied, but laid out our endeavours to prepare the People of this City to concur, that we might be ſecured of a Congregation, and that this Undertaking might be performed in the beſt <hi>Decorum</hi> and moſt to Edification. Which having proved, God be thanked, very ſucceſsful, I thought my ſelf obliged in this moſt publick manner to give the World an Account of it, that other Dioceſſes, as they need not diſdain in other things to follow the Example of <hi>Durham,</hi> ſo they might in this be encoura<g ref="char:EOLhyphen"/>ged by our happy ſucceſs to imitate that Godly Practice, for the Precedent of which they owe very much to your Lordſhip.</p>
+            <p>The <hi>Magiſtrates,</hi> and <hi>People</hi> of beſt Quality in this City, do by their Preſence intimate how much they are gratified that their Cathedral ſhould firſt reſtore this Re<g ref="char:EOLhyphen"/>ligious Courſe, which was in uſe here in the memory of ſome of our Body, and has been at <hi>York</hi> ever ſince the return of the Monarchy, and we have reaſon to believe has been obſerved in moſt if not all Cathedrals, before the <hi>Great Rebellion.</hi>
+            </p>
+            <p>And whatſoever meaſures Cathedrals and Churches in remote parts may now take upon ſo ſeaſonable and con<g ref="char:EOLhyphen"/>ſiderable an Inſtance, there are juſt grounds of belie<g ref="char:EOLhyphen"/>ving that ſome <hi>great Churches in this Country, where After<g ref="char:EOLhyphen"/>noon and Week-day Lectures</hi> have been uſual, will change
+<pb facs="tcp:93822:3"/>
+them by this regular practice, into a <hi>courſe of</hi> Advent <hi>and</hi> Lent, <hi>and Feſtival Sermons.</hi> I hear already of one very noted Corporation, which upon the very Fame of ours is about that deſign, which if others would be per<g ref="char:EOLhyphen"/>ſwaded to follow, it muſt be looked on as a conſiderable Reformation.</p>
+            <p>For ſurely, My Lord, if Preachers <hi>faithfully and pru<g ref="char:EOLhyphen"/>dently</hi> diſcharge their province, and <hi>preach de tempore;</hi> ſuch a Courſe of Sermons will preach <hi>up</hi> the Church of <hi>England</hi> as much as ſome Lectures have preached it <hi>down:</hi> Nor can there be any better expedient to prevent ill effects of that Liberty, which has been taken by Preachers in the <hi>choice</hi> of <hi>Subjects,</hi> and <hi>preaching</hi> as well as <hi>praying,</hi> according to their own Fancies and Humors: A thing diametrically oppoſite to the deſign of the Church, and which I ſhall (as in Duty bound) always oppoſe within the Circuit of my Juriſdiction.</p>
+            <p>I am not willing to give your Lordſhip further trou<g ref="char:EOLhyphen"/>ble, but I dare not ſlip this fair occaſion to declare to the World, That I think my ſelf obliged to your Lordſhip in an extraordinary manner for ſundry noble Favours and Acts of great Goodneſs towards me, eſpecially ſince my late undeſerved Promotion, among which none make ſuch deep Impreſſion on my Soul as your preſent Concur<g ref="char:EOLhyphen"/>rence and Countenance in the diſcharge of my Offices, and honeſt Zeal for the Houſe and Service of God.</p>
+            <p>Begging the Continuance of your Lordſhips Kindneſs (which I ſhall do all that in me lies to ſecure) together with your Benediction on my Perſon and Endeavours, I do ſubſcribe my ſelf with great Sincerity and Reſpect,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhips moſt Humble and most<lb/>
+Faithful Servant,<lb/>
+                  <hi>D. G.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:93822:3"/>
+            <head>TO THE INHABITANTS OF THE City of Durham.</head>
+            <p>BY the fulneſs of the Aſſemblies which have been in our Cathedral at our <hi>Wedneſday</hi> and <hi>Friday Ser<g ref="char:EOLhyphen"/>mons,</hi> lately Re-eſtabliſhed, <hi>during Advent and Lent;</hi> it is Evident that ſuch a courſe of Preach<g ref="char:EOLhyphen"/>ing is not only a very reaſonable and well-adviſed <hi>Determi<g ref="char:EOLhyphen"/>nation of our Dioceſan,</hi> but that the Attendance thereon is a thing very Practicable and Suitable to the temper of the Place and People.</p>
+            <p>The obſervation of which, hath put me upon the Reſoluti<g ref="char:EOLhyphen"/>on of Printing what I Preach'd to you on the firſt <hi>Wedneſ<g ref="char:EOLhyphen"/>day</hi> in <hi>Advent,</hi> that your good Affection to Primitive Or<g ref="char:EOLhyphen"/>der, and forwardneſs to ſubmit to the directions of your Su<g ref="char:EOLhyphen"/>periors, might meet with that Juſtice which is due to ſo com<g ref="char:EOLhyphen"/>mendable an Example, and might be improved to excite others to the imitation of it. And that thoſe Arguments which were uſed with good ſucceſs to ſuch of you, as were pre<g ref="char:EOLhyphen"/>ſent, being brought to the Eye of thoſe that were lawfully, and neceſſarily abſent, might Contribute to the fixing of all Perſons in their <hi>future reſpects, to ſo Edifying a Practice;</hi> and prevail with you <hi>all,</hi> when ever your Affairs will permit,
+<pb facs="tcp:93822:4"/>
+to <hi>repair to the Church;</hi> as the <hi>Magiſtrates</hi> and <hi>chief People of the Town</hi> have with good appearance of Devo<g ref="char:EOLhyphen"/>tion already done. And I cannot believe, that a Duty, that carries with it ſuch <hi>ſubſtantial Reaſons,</hi> and is back't more<g ref="char:EOLhyphen"/>over with ſuch <hi>ſufficient Precedents</hi> will ever be either neg<g ref="char:EOLhyphen"/>lected or oppoſed by any that mean honeſtly, after it is once brought to your conſideration, in ſuch a manner as I have here endeavoured.</p>
+            <p>What I aim at farther, is to engage you to Embrace the <hi>Weekly</hi> Opportunities of Practiſing in a <hi>Devout Reception of the Holy Sacrament,</hi> that Chriſtian Knowledg, wherein you are now more frequently Inſtructed; and in the moſt ſo<g ref="char:EOLhyphen"/>lemn manner, at the two great Feſtivals of <hi>Chriſtmas</hi> and <hi>Eaſter,</hi> to the more Holy <hi>Obſervation of which,</hi> this ex<g ref="char:EOLhyphen"/>traordinary frequency of Sermons is deſigned as <hi>Preparation.</hi> Such <hi>Young People</hi> eſpecially, as never before have Receiv<g ref="char:EOLhyphen"/>ed the Holy Communion, ought I conceive to chuſe <hi>one of theſe times,</hi> as moſt proper for their firſt approaches thereto, by reaſon of theſe means of Inſtruction and Devotion, which always ought, and now do preceed them.</p>
+            <p>I am apt in charity to believe that your Affection to theſe ſeaſons thus reviv'd, was occaſion'd by your moſt ſtedfaſt re<g ref="char:EOLhyphen"/>ſolutions for Weekly Communion, and Daily Prayers. And I have no leſs ground to hope that on the other hand, the Re<g ref="char:EOLhyphen"/>ligious Obſervation of theſe opportunities of Grace and Piety offer'd us, will <hi>encreaſe Peoples Affection</hi> for frequent Communion, as well as diſpoſe them with ſuch real profit, and advantage to Communicate, that the benefit of a Weekly Sa<g ref="char:EOLhyphen"/>crament may be conſpicuous in the <hi>Lives and Converſations</hi> of the People of this City. And that will not only <hi>ſilence</hi> all thoſe who preſume to open their Mouths againſt ſo Chri<g ref="char:EOLhyphen"/>ſtian, and neceſſary a Duty; but alſo effectually <hi>convince</hi> them of their <hi>ſin,</hi> in oppoſing a clear Ordinance, and the laſt Command of their Dying Saviour, that they may become
+<pb facs="tcp:93822:4"/>
+perfect Proſelytes, and make amends by their future example, and fervent Zeal, for the injury they have done to Virtue and Religion, by hindring the moſt Efficacious means that ever were Inſtituted, for the begetting and encreaſing both of the one and the other.</p>
+            <p>The Conſideration of this I recommend to the thoughts of ſuch as believe that, which to me has ever been the greateſt of <hi>Paradoxes,</hi> namely, <hi>That obedience to an expreſs com<g ref="char:EOLhyphen"/>mand of our Saviour in the frequent Commemoration of his Death, the greateſt Reſpect that we can pay to the Holy Sacrament ſhould be a means of bringing it into contempt.</hi> A mighty unaccountable conceit, which I cannot but admire, ſhould ever enter (as I find it often does) into the Heads of Men, otherwiſe of parts and underſtanding; but ſurely, this fancy is no Evidence of their Parts, more than of their Devotion.</p>
+            <p>And I do as ſeriouſly recommend to the conſideration of all ſuch as do <hi>often Participate</hi> of Chriſts Body and Blood, the neceſſity of approaching there with <hi>due Care, Reverence,</hi> and Devotion; and their obligation to <hi>live ſo exemplarily</hi> and ſuitably to ſo great an Honour and Priviledg, as may re<g ref="char:EOLhyphen"/>move theſe Stumbling-Blocks which have been by prophane or careleſs Chriſtians laid in the way of Men, who have ſometimes perhaps without ill meaning, not only talk'd, but writ; and ſometimes poſſibly Preach'd againſt frequent Com<g ref="char:EOLhyphen"/>munion, to their own Diſcredit, as well as Diſhonour to the Sacrament.</p>
+            <p>The chief reaſon of this diſtinct and particular Addreſs to you the Citizens and Inhabitants living nigh the Cathe<g ref="char:EOLhyphen"/>dral, is becauſe it was not poſſible for me, in the compaſs of the time allotted for my Diſcourſe in the Pulpit, to compre<g ref="char:EOLhyphen"/>hend all thoſe things that were requiſite to be touch'd on, at the reſtoring ſo Antient a Cuſtom, after ſo long a Revolution of time.</p>
+            <p>
+               <pb facs="tcp:93822:5"/>
+And for the <hi>enſuing Diſcourſe,</hi> the <hi>plainneſs</hi> and <hi>famili<g ref="char:EOLhyphen"/>arity</hi> of it, will I hope, evince that there was no other intent in committing it to the Preſs, but only to do good to ſuch Rea<g ref="char:EOLhyphen"/>ders, as that Method and Stile is moſt proper and ſuitable to. And for the ſake of that honeſt deſign of promoting your Spiritual welfare, I hope you will pardon the Prolixity of both; and kindly accept of the Chriſtian intentions and pains I have taken in this, or any other part of my Miniſte<g ref="char:EOLhyphen"/>rial Office of late, or heretofore.</p>
+            <p>I ſhall lay before you at preſent, no more Arguments to con<g ref="char:EOLhyphen"/>vince you how great your Obligation is <hi>to continue your Di<g ref="char:EOLhyphen"/>ligence,</hi> in repairing to Service and Sermon <hi>on the ap<g ref="char:EOLhyphen"/>pointed days;</hi> and I wiſh I could live to have the like oc<g ref="char:EOLhyphen"/>caſion to praiſe you for <hi>increaſing that diligence</hi> in your at<g ref="char:EOLhyphen"/>tendance upon the <hi>Sacrament,</hi> in your <hi>proper perſons</hi> when you have no juſt impediment, and taking care that there may be ſome <hi>Repreſentative</hi> of your Family when you have; contenting my ſelf with the honeſt motives which I have already uſed, and leaving the further ſucceſs to God.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:93822:5"/>
+            <head>A SERMON PREACHED IN THE CATHEDRAL CHURCH OF DURHAM, ON <hi>DECEMBER</hi> the 2d. 1685. Being the firſt <hi>Wedneſday</hi> in <hi>Advent.</hi>
+            </head>
+            <epigraph>
+               <bibl>ROM. XIII. 11.</bibl>
+               <q>
+                  <hi>And that knowing the time, &amp;c. unto the end of the,</hi> &amp;c.</q>
+            </epigraph>
+            <p>THE late Reſtauration of the weekly Sa<g ref="char:EOLhyphen"/>crament, in this and other Cathedrals, may very well be attended on, by the preſent Religious and laudable Cuſtom which we are now reviving, <hi>i. e.</hi> Ser<g ref="char:EOLhyphen"/>mons twice a Week (on <hi>Wedneſdays</hi> and <hi>Fridays)</hi> du<g ref="char:EOLhyphen"/>ring <hi>Advent</hi> and <hi>Lent:</hi> That the Inſtruction from the
+<pb n="2" facs="tcp:93822:6"/>
+Pulpit may be proportionable to the Devotion of thoſe Seaſons, which ought among all good Chriſtians to be extraordinary; they being peculiarly deſtined by the Church to works of Piety, and very particularly to the exerciſes of Repentance, to diſpoſe and fit us for the due Celebration of thoſe great and high Feſtivities, our Sa<g ref="char:EOLhyphen"/>viours Birth and Reſurrection; which our Holy Mother does warn us not to ruſh on, with ſo little care, as we do on ordinary Feſtivals, by aſſigning to the one Four, and to the other no leſs than Six weeks preparation.</p>
+            <p>An holy practice, which was in uſe in this very Ca<g ref="char:EOLhyphen"/>thedral, and, it is not difficult to prove, in many others before the Rebellion of Forty one, and hath been ob<g ref="char:EOLhyphen"/>ſerved in the Metropolitical Church of <hi>York,</hi> ever ſince the Reſtoration.</p>
+            <p>If all Religious and Commendable Cuſtoms, which the Church did once enjoy, and ſtill wiſhes for, were not immediatly reſtored after ſo diſmal a time of Vio<g ref="char:EOLhyphen"/>lence, Sacriledge and Confuſion, it ought to be no great matter of Admiration.</p>
+            <p>It may rather afford ſome cauſe of wonder, that for the firſt Twenty years there ſhould be made any Pro<g ref="char:EOLhyphen"/>greſs at all towards reſtoring ſuch good Cuſtoms, where<g ref="char:EOLhyphen"/>of ſome men could hardly endure the very name. 'Twas well that we could be permitted at firſt to injoy a <hi>Chriſt<g ref="char:EOLhyphen"/>mas</hi> without an <hi>Advent,</hi> and an <hi>Eaſter</hi> without a <hi>Lent,</hi> the Holy Feſtivals themſelves, without the ſeaſons al<g ref="char:EOLhyphen"/>lotted for preparation. When the Holy Sacrament had not been adminiſtred in moſt places for Fifteen years to<g ref="char:EOLhyphen"/>gether, it ought to be eſteemed a mighty matter to have it Adminiſtred once a Month in a Cathedral. And when the generality had expunged out of their Calendar, the very titles of our higheſt Feſtivals, and trained up their Children in that evil way, it could not but be difficult to
+<pb n="3" facs="tcp:93822:6"/>
+perſwade people to embrace any thing that related unto them.</p>
+            <p>But Bleſſed be the name of the Eternal God, theſe two or three laſt years have not only produced an advan<g ref="char:EOLhyphen"/>tagious Revolution for all Chriſtendome, which ſhould fill all the Churches thereof with <hi>Te Deums,</hi> but parti<g ref="char:EOLhyphen"/>cularly for our own Church and Kingdom, by fruſtra<g ref="char:EOLhyphen"/>ting thoſe fears and jealouſies, which had almoſt intoxi<g ref="char:EOLhyphen"/>cated the Nation, and did occaſion that terrible Rebelli<g ref="char:EOLhyphen"/>on which nothing leſs than the goodneſs of God, and Conduct of ſuch a Prince could ſo happily have ſuppreſ<g ref="char:EOLhyphen"/>ſed; nay, <hi>by raiſing in ſome Reſpects</hi> our eſtabliſhed Go<g ref="char:EOLhyphen"/>vernment and Religion, when ſome apprehended we ſhould have loſt both.</p>
+            <p>Inſomuch that I'le make bold to ſay, and deliver my Conſcience, It is like to be the <hi>fault</hi> of the <hi>People</hi> rather than the <hi>Prince,</hi> if both do not flouriſh <hi>more</hi> than they have done in former Ages.</p>
+            <p>For if God gives us the Grace, according to the liber<g ref="char:EOLhyphen"/>ty granted us by an Indulgent Soveraign, to live up to the height of our eſtabliſh'd Religion, in ſuch ſort, that it may once appear with due Luſtre; Prieſts becoming generally Exemplary for Holineſs, and diligent in their Office, by keeping cloſe to the Rules of the <hi>Common Prayer Book,</hi> and above all, laying out their endeavours in training up the young generation in ſuch ſound Prin<g ref="char:EOLhyphen"/>ciples of Loyalty and Religion, as to give (at laſt) an infallible demonſtration, That an exact obedience to our Mother, is the ſureſt and moſt expeditious courſe to pro<g ref="char:EOLhyphen"/>duce the beſt Chriſtians, and beſt Subjects; we may be (by Gods Bleſſing) fixed on ſo ſure a foundation, as that none of our Adverſaries on either hand will be able either to undermine or overthrow us.</p>
+            <p>
+               <pb n="4" facs="tcp:93822:7"/>
+A Digreſſion, but very neceſſary to obviate that <hi>He<g ref="char:EOLhyphen"/>reditary</hi> Diſeaſe of the People of <hi>England</hi> (which God deliver us from) an <hi>aptitude</hi> not only to entertain, but to <hi>augment Fears and Jealouſies,</hi> and to Torment themſelves, and diſturb the World with them, when they have little, and ſometimes <hi>no Cauſe</hi> at all, as much as when they have a great One.</p>
+            <p>Our two moſt Reverend Metropolitans, and other Fathers of the Church, as well as our own Right Reve<g ref="char:EOLhyphen"/>rend Dioceſan, ſeem to have well conſidered the bet<g ref="char:EOLhyphen"/>tering of our Circumſtances, by obliging us not only to more <hi>frequent Communion,</hi> but putting us in a way to communicate, eſpecially at the two great Feſtivals be<g ref="char:EOLhyphen"/>fore mentioned, with greater Profit, more Devotion, through Examination and due Preparation.</p>
+            <p>To all which pious Chriſtian ends and purpoſes, a <hi>Courſe of Sermons in</hi> Lent <hi>and</hi> Advent, prudently con<g ref="char:EOLhyphen"/>trived, according to the Religious Example of our Fore<g ref="char:EOLhyphen"/>fathers, and Commands of Authority at preſent, may in all probability ſo much contribute, that I fear thoſe will deſerve much Blame, who ſhall not heartily con<g ref="char:EOLhyphen"/>cur with ſo Edifying a deſign and imployment. But the number of thoſe will be, I truſt, very few, if any at all; for as the Members of our Cathedral have rea<g ref="char:EOLhyphen"/>dily complied with our Biſhops motion: ſo it is hoped that the People of the ſeveral Pariſhes of this City, will as willingly comply with ours, namely, to come them<g ref="char:EOLhyphen"/>ſelves, when their Callings and neceſſary Affairs will give them leave; or elſe to ſend ſome, one at leaſt of their Families, to partake of this Chriſtian and well de<g ref="char:EOLhyphen"/>ſigned method of Devotion and Inſtruction, whereunto I do in the Name of God invite them by this honeſt and well meant Addreſs, preparatory to the Subject I have choſen to diſcourſe on, which is part of one of the
+<pb n="5" facs="tcp:93822:7"/>
+Scriptures proper to the Seaſon, and which I now come to handle.</p>
+            <p>It is, you ſee, the burden of the Peoples Prayers to God, as well as of the Churches Advice to the Congre<g ref="char:EOLhyphen"/>gation, To <hi>caſt away the works of Darkneſs, and to put on the armour of Light,</hi> which is alſo implied in the words of my Text; whereby we are Exhorted to <hi>ariſe from ſleep,</hi> on conſideration of the unſeaſonableneſs and un<g ref="char:EOLhyphen"/>ſuitableneſs of a drowſie ſtupid Condition, in reſpect both of our State and Duty. <hi>Our Salvation is nearer than when we believed; the night is far ſpent, the day is at hand.</hi>
+            </p>
+            <p>Two things we may take notice of in the verſe. An <hi>Exhortation,</hi> and the <hi>Reaſon of that Exhortation.</hi> The Exhortation is, <hi>To ariſe from Sleep.</hi> The Reaſon or Ground from whence this Exhortation is drawn, is the ſeaſon or opportunity; <hi>Seeing our Salvation is nearer than when we believed.</hi>
+            </p>
+            <p>In handling theſe words, I ſhall make the laſt in my Text, the firſt in my Diſcourſe, and begin with the Sea<g ref="char:EOLhyphen"/>ſon or Opportunity.</p>
+            <p>You ſee plainly this Exhortation <hi>[To ariſe from Sleep]</hi> to be a neceſſary Conſequent from the Antecedent Pro<g ref="char:EOLhyphen"/>poſition, <hi>[Our Salvation is nearer than when we believed.]</hi> And when this is proved, we muſt not deny the Conclu<g ref="char:EOLhyphen"/>ſion, but riſe from Sleep. And that conſidering the Sea<g ref="char:EOLhyphen"/>ſon, it is high time ſo to do. I begin with the firſt Pro<g ref="char:EOLhyphen"/>poſition, <hi>Our Salvation,</hi> &amp;c. and here we muſt</p>
+            <list>
+               <item>1. Enquire of the true meaning of the Words.</item>
+               <item>2. How it avails to bring in the Concluſion.</item>
+            </list>
+            <p>
+               <hi>Some Commentators</hi> expound the Word, <hi>Nearer,</hi> in the <note place="margin">Gorrhan.</note> Text, by being <hi>more due to us; Our Salvation is nearer,</hi>
+               <pb n="6" facs="tcp:93822:8"/>
+i. e. more due to us for our good Works, than when we firſt believed, having no good Works.</p>
+            <p>Which is thus far true, That whoſoever believeth in the Merits of our Saviour Jeſus Chriſt, and juſtifieth this his <hi>Faith</hi> by a holy Life, Salvation is nearer him than when he firſt believed; he draws nearer and nearer to God, by Works of Religion and Charity, with Sinceri<g ref="char:EOLhyphen"/>ty performed; But that ſtill not by way of Debt, good Works being an Antecedent of our Salvation, but not the Cauſe.</p>
+            <p>Others make this Speech of St. <hi>Paul</hi> to be relative <note place="margin">Cornel. a Lapid. Eraſm:</note> between the times of the Law and the Goſpel: <hi>Our Salvation</hi> is nearer ſince Chriſt's Coming than before; For before, they were in the Night of Ignorance, under the dark Cloud of Ceremonies, which the bright Morn<g ref="char:EOLhyphen"/>ing-Star Chriſt Jeſus diſpell'd at his Riſing; Aboliſhing all the Phariſaical Traditions, purging Judaical Errors, and freeing them from their ſins. And this Opinion in it ſelf carries a Truth, but not the whole Truth.</p>
+            <p>There being a Threefold Coming of our Saviour in<g ref="char:EOLhyphen"/>to the World.</p>
+            <list>
+               <item>1. To Suffer.</item>
+               <item>2. To Convert.</item>
+               <item>3. To Judge.</item>
+            </list>
+            <p>By every one of which he may be ſaid to be near<g ref="char:EOLhyphen"/>er us.</p>
+            <p>By the Firſt, when he came into the World to take our Nature upon him, that he might be capable to ſuffer for us, he may be ſaid to be nearer us, becauſe he was manifeſted more plainly, and made himſelf more ſenſi<g ref="char:EOLhyphen"/>bly known unto us: And to this Coming this latter Opinion has Relation.</p>
+            <p>
+               <pb n="7" facs="tcp:93822:8"/>
+And this is the Coming which we have in our eye, and for which we are preparing: And as our Right Ho<g ref="char:EOLhyphen"/>nourable and Reverend Dioceſan hath provided that this <hi>Advent</hi> ſhall be the moſt Religious <hi>Advent</hi> that hath been kept in this Church theſe Five and Forty Years; I ſhall take care, by Gods Aſſiſtance, as much as in me lies, (and I deſire you all in Gods Name to join with me herein), that the approaching Feaſts may be the moſt Holy <hi>Chriſtmas.</hi>
+            </p>
+            <p>Our Saviour's Second Coming is, when out of his Mercy he deſcends to any particular Soul, to turn him from his evil ways, and to regenerate him by the Spirit to a new Life: And by this alſo he may be ſaid to be nearer unto us. For an Infidel is far from God, and ſo from Salvation: The firſt Act of his Converſion is his firſt Step towards God; and his progreſs in a good Life, is his direct Journey to Heaven. And to this the for<g ref="char:EOLhyphen"/>mer Opinion is moſt properly applicable.</p>
+            <p>But there is alſo a Third Coming of our Saviour, <hi>i. e.</hi> To Judgment. According to which St. <hi>Chryſoſtom</hi> and the Fathers do for the moſt part interpret theſe Words. There is a laſt great Judgment at the end of the World, of which we know neither the Day nor the Hour, yet indefinitely, that it approaches we all know and believe, and ſhould often conſider: And there is al<g ref="char:EOLhyphen"/>ſo a particular Judgment which every ſoul receives be<g ref="char:EOLhyphen"/>fore it enters Heavens Gates. And good Profiicents in the works of Piety and Charity, as they approach eve<g ref="char:EOLhyphen"/>ry day nearer and nearer to the end of this Life; ſo alſo to the beginning of that Life, in which they ſhall receive their Reward, through the Mercy of Chriſt, according to their Works, that is, Eternal Happineſs.</p>
+            <p>And of this, this Text is eſpecially to be underſtood; which our Apoſtle uſes as an Argument to incite and
+<pb n="8" facs="tcp:93822:9"/>
+ſtir up the <hi>Romans</hi> to Works of Charity and Godlineſs The validity of which Argument, how it prevaileth to conclude the forſaking of ſin, or our own <hi>ariſing from ſleep,</hi> I ſhall briefly ſhow you in the next Place.</p>
+            <p>Our End, our time of Diſſolution, is nearer than when we believed, Therefore it is high time to ariſe from ſleep.</p>
+            <p>Were it not daſtardly Cowardice for a Soldier after a long Fight, to give over and yield at the laſt Battel, well promoted on with hope of Victory? So it is vile cow<g ref="char:EOLhyphen"/>ardice in a Chriſtian Soldier to loſe the Victory, only by not fighting, being urged to it with an aſſurance of Con<g ref="char:EOLhyphen"/>queſt.</p>
+            <p>The carnal Soldiers fight but in hope, but the ſpiritual in Faith and Confidence: Man ſeldom conquers his Enemies but by Death or Wounds; but a Chriſtian re<g ref="char:EOLhyphen"/>pels Satan only by reſiſting him, <hi>Reſiſt the Devil, and he will flye from thee,</hi> ſaith St. <hi>James.</hi>
+            </p>
+            <p>If therefore the aſſurance of Victory cannot raiſe his Spirit to Battel, methinks the eaſineſs of the Combat ſhould encourage him; and if none of theſe can move him, the Crown that is ſet before him, muſt needs draw him on.</p>
+            <p>Will any refuſe Gold, refuſe a Crown? Behold ye <hi>Romans,</hi> (might St. <hi>Paul</hi> have ſaid) the happineſs of your Eſtate; your Battel is almoſt finiſhed; your Victo<g ref="char:EOLhyphen"/>ry is certain; your Crown ready to be ſet upon your Head; <hi>Turpiſſimum in extremo Actu deficere;</hi> it is baſe to fail in the laſt Act. Ariſe therefore in the Name of God, ariſe from ſleep, forſake your ſins, for your Salvation is nearer than when you believed.</p>
+            <p>There is no man having a Temporal Eſtate to fall to him after the expiration of ſome Years, but does more and more rejoice in it, when he comes nearer to the Poſ<g ref="char:EOLhyphen"/>ſeſſion
+<pb n="9" facs="tcp:93822:9"/>
+of it; and ſhould we not do thus much for our eternal Salvation? Behold the date of this Life is almoſt expired, with many if not moſt of us, and we are not probably, if we conſider the courſe of Nature, far from that dreadful Moment, <hi>&amp;c.</hi> It does behove us to ariſe therefore from ſleep, to awaken and lift up our eyes to<g ref="char:EOLhyphen"/>wards Heaven, where there is a better Inheritance of Eternal Bliſs prepared by Chriſt Jeſus for all thoſe that diligently wait for him.</p>
+            <p>Our Life is a Race and Courſe from Earth to Heaven; it were double ſhame for him that runneth, to ſit down when he ſees the Stage: No Traveller will faint when he ſees the City before him; and ſhall we lye drowzing in our ſins, when we ſee Heaven-Gates open before us, ready to receive us all that ſtrive to enter? No, no; let us ariſe then, if it be but for mere ſhame, and ſuffer not the juſt Rebuke of the <hi>Galatians</hi> to fall upon us; You began well, but why did you not go on? Who hindred you? It is the end that ſhall be rewarded; he and only he that continueth to the end, ſhall be ſaved. The Philoſopher obſerves, that thoſe Motions which are ſwifteſt in the beginning, and ſlow towards the end, are violent Motions from ſome Terrene extrinſical Principle; but voluntary Motions begin ſlowly, and grow more ſtrong ſtill towards the end, having their cauſe within them. And ſuch muſt a Chriſtians Progreſs be, not for<g ref="char:EOLhyphen"/>ced but free, ſtill preſſing forward to the Mark; the near<g ref="char:EOLhyphen"/>er to the Mark, the more care in his courſe.</p>
+            <p>And now we that are every day nearer the mark, ſhould be ſure to mend our pace; for we know the ſeaſon, our end, our time may be ſudden, and we may the very next moment be called to an Account for our ſins. Shall we then not <hi>watch and pray,</hi> &amp;c.? a good
+<pb n="10" facs="tcp:93822:10"/>
+ſeaſon: Who knows whether he may live to ſee the next day, the next hour, the next moment? and if we neglect the firſt opportunity, God alone knows whether he may ever grant us a ſecond: Thoſe of this City I am ſure ought to be alarm'd in a particular manner upon this Account; it hath pleaſed God to viſit many this laſt Year paſt, with ſudden death, and cut off many per<g ref="char:EOLhyphen"/>ſons, ſome in the midſt of their days; God grant it may not be the fate of ſundry others to be ſo cut off, and in the midſt of their ſins.</p>
+            <p>The moſt certain way to prevent ſuch fears, is to fol<g ref="char:EOLhyphen"/>low this days advice, namely, To ariſe and look about us; which if we do, we ſhall ſoon find it is high Noon, high Time to awake out of our ſleep, and ſet about our work; for every one of us, I fear the beſt, ſlumbers, if not ſleeps; the night will ſhortly come wherein no man ſhall work, as we are told in the Goſpel. There cannot be therefore a greater Act of Wiſdom, than to follow our Saviours Advice in due ſeaſon, and <hi>walk while we have the light, leſt darkneſs come upon us,</hi> Joh. 12. 35. By no means neglecting the Counſel of St. <hi>Paul,</hi> to do good while we have opportunity, <hi>Gal.</hi> 6. 10. Seeing our Salvation draweth near, let us ariſe from ſleep, and that now conſidering the ſeaſon, it being high time ſo to do: And ſo I come to the laſt Propoſition, the Conſequent and Concluſion drawn from the former,</p>
+            <p>[To ariſe from Sleep.]</p>
+            <p>Before I can ſhew you what that is, I muſt diſtinguiſh betwixt the ſeveral kinds of ſleep. The firſt ſleep, which is the ſleep of nature, is ſometimes taken for the ſleep of Death figuratively, 1 Theſ. 4. 13. <hi>I would not have you ignorant, Brethren, concerning thoſe that are aſleep,</hi> i. e. dead: Sometimes properly, for the Ligation of the ſen<g ref="char:EOLhyphen"/>ſes,
+<pb n="11" facs="tcp:93822:10"/>
+or reſt of the animal Faculties, Joh. 11. 12. <hi>If he ſleep, he ſhall do well.</hi>
+            </p>
+            <p>The <hi>3d.</hi> ſort of ſleep, the ſleep of ſin, is the ſleep meant in the Text, and the ſame of which the Apoſtle ſpeaks, Eph. 5. 14. <hi>Awake thou that ſleepeſt, and ariſe from the dead.</hi> Of this ſleep the Wiſeman complains, Pro. 6. 9. <hi>How long wilt thou ſleep, O ſluggard? when wilt thou ariſe out of thy ſleep?</hi> And which is the ſleep which the Apo<g ref="char:EOLhyphen"/>ſtle here means, from which it is high time to ariſe; it is high time to ariſe from this ſleep, <hi>i. e.</hi> to ſhake off our ſins, and walk honeſtly as in the day (as our Apoſtle expreſſes it); <hi>not in rioting and drunkenneſs, not in cham<g ref="char:EOLhyphen"/>bering and wantonneſs, not in ſtrife and envying, but put<g ref="char:EOLhyphen"/>ting on the Lord Jeſus Chriſt, and making no proviſion for the fleſh, to fulfil the luſts thereof.</hi>
+            </p>
+            <p>Which manner of Proof is drawn from the Analogy and Likeneſs that ſin hath with ſleep; For as ſleep in<g ref="char:EOLhyphen"/>hibits all ſenſes and other faculties of the ſoul from exe<g ref="char:EOLhyphen"/>cuting their ſeveral functions; the Eye from ſeeing, the Ear from hearing, and the Underſtanding from judging, the Will from wiſhing, and the whole Man from acting, which while we watch are imployed in their ſeveral Of<g ref="char:EOLhyphen"/>fices:</p>
+            <p>So the ſpiritual Senſes and Motions of our mind, Faith and Charity, are ſmothered in the dead-ſleep of ſin, and loſe their very Eſſence and Being; for Faith cannot be without Charity, nor Charity without Operation or Working, neither is there any working in ſleep.</p>
+            <p>Would any one then approve his Faith, and be ac<g ref="char:EOLhyphen"/>counted faithful? Let him ſhew me his Faith by his Works, and here take his beginning; let him firſt riſe from ſleep, <hi>i. e.</hi> Repent. 'Tis certain thoſe that ſleep in ſin, can never do the works of Faith.</p>
+            <p>
+               <pb n="12" facs="tcp:93822:11"/>
+But who thoſe are that may be moſt properly termed thus to ſleep in ſin, ought to be my next endeavour to ſhew you: And here, not inſiſting on, or particularizing the greateſt and ſoundeſt ſleepers, my time allotted will not permit me to reach them; <hi>viz. Heathens, Jews, Atheiſts, Hereticks</hi> (and <hi>Schiſmaticks)</hi> who may be truly ſaid to ſleep in <hi>utramque aurem,</hi> ſoundly without the leaſt interruption, their whole Life indeed being but one intire act of ſleep; I ſhall rather enquire within the Church among Profeſſors of our own Religion, for ſome of thoſe ſleepers my Text aims at, where it is no<g ref="char:EOLhyphen"/>torious we may find too great a number, who can thus ſleep, even at Noon-day, reſiſt the force of the Goſpel, the moſt powerful methods to reduce ſinners; nay, become daily worſe men, more and more vile, lewd and ſtupid, to the reproach of Chriſtianity, in the very midſt of the Glorious Light of the moſt purely Reformed Church in the whole World in point of Doctrine, Diſcipline, and Worſhip.</p>
+            <p>'Tis certain every unregenerate Man, every impeni<g ref="char:EOLhyphen"/>tent Sinner, whoſoever is under the power of any Luſt of Fleſh or Spirit, every one that is not awakened into ſo ſerious a ſenſe of his Duty, as ſincerely and faithfully to oppoſe ſin, and to purſue vertue, faithfully uſing the means which God affords him to mortify his corrupt Nature (whereof a devout reſpect to this ſeaſon of <hi>Advent,</hi> may be an eſpecial one) and to revive and ſtrengthen Grace in his Soul, is I ſay ſuch a Sleeper, a ſound ſleeper in ſin and ſecurity, even upon the very brink of Deſtruction; a Sleeper that ought to be awakened and warned of his danger. And if nothing elſe will do it, I beſeech God to rouſe him up by the Thunder of his Spirit, and to drag him to repentance by the terrors of his Judgments,
+<pb n="13" facs="tcp:93822:11"/>
+if he will by no means be drawn by the Cords of his Love.</p>
+            <p>And here I muſt more particularly apply my ſelf to ſuch a ſinner, by conſidering him under a double capa<g ref="char:EOLhyphen"/>city, either as an old hardned ſinner, or a young Profi<g ref="char:EOLhyphen"/>cient in vice; as one that hath been from his youth to the hoary head habituated to a courſe of Sin and Impie<g ref="char:EOLhyphen"/>ty, or elſe as one that is newly entred into thoſe ways that lead to the Chambers of Death, and ready to ſa<g ref="char:EOLhyphen"/>crifice to the Devil the very prime and flower of his youth.</p>
+            <p>And here the old Man is firſt obliged to awake from ſleep, and rouſe himſelf up out of his Impenitency. He who has one foot already in the Grave, ſhould greedily catch at ſo fair an occaſion, and lay hold on that eternal Life, which is yet, notwithſtanding all his paſt provo<g ref="char:EOLhyphen"/>cations, graciouſly offered him: And faithfully and wiſely imploy and improve theſe few laſt minutes in Devotion and the exerciſes of Repentance, remembring that he is juſt ready to launch forth into the Ocean of Eternity.</p>
+            <p>And that upon the right uſe of the laſt Hours, his ever<g ref="char:EOLhyphen"/>laſting happineſs doth depend; and that that one hour ſpent as it ought (here in this World) may ſecure that for him which hereafter he cannot do unto all E<g ref="char:EOLhyphen"/>ternity.</p>
+            <p>
+               <hi>As the Tree falls</hi> (let us ſeaſonably conſider) <hi>ſo it lies.</hi> And, <hi>The Grave</hi> (which is in a manner ready open to receive the old Man) <hi>is no place for Repentance.</hi> The hoary Head, which is a Crown of Glory, when it is found in the way of Righteouſneſs (and a mighty Ag<g ref="char:EOLhyphen"/>gravation of ſin when it is met with in the way of vice) ought to be a ſerious Monitor, and doth loudly call upon
+<pb n="14" facs="tcp:93822:12"/>
+old men to Repent. Let them remember that they muſt repent now or never; their youth, their middle Age is gone, and their laſt days only remain, which it infinite<g ref="char:EOLhyphen"/>ly concerns them to manage well, having ſpent the reſt, or elſe they muſt periſh in ſin and wickedneſs, and their Ruin will be inevitable. As they have been laden with ſin and iniquity in this life, let them aſſure themſelves, that without a ſpeedy and hearty Converſion unto God, they will in the other World be certainly laden with puniſhment. Let them above others take care how they ſleep any longer, leſt they awake no more. If they reſiſt this preſent Call, their Ears may never hear ano<g ref="char:EOLhyphen"/>ther. Death (they may aſſure themſelves) how far ſoever the young man puts the evil days from him, is near them, even at the very door, and ſo is Judgement likewiſe, both which ought to ſtrike them with all their Terrors. If this does not ſuffice to awaken the old man, dead in Treſpaſſes and Sins, I ſhall only mind him, That he above all others ought to have the ſound of the laſt Trump always in his Ears, <hi>ſurgite mortui,</hi> ariſe ye dead.</p>
+            <p>The young man in the heat of his youth, and the midſt of all his extravagance, has ſundry and great obli<g ref="char:EOLhyphen"/>gations to improve this ſeaſon to reform his Life, and enter into the ways of Wiſdom, which, as the Wiſe Man tells us, are ways of pleaſantneſs, and paths of peace. As the old Man muſt dye, ſo let me be his Monitor, That he may dye, and be hurried away to Hell in the midſt of his ſins: many ſad and lamentable examples whereof God ſets daily before our eyes.</p>
+            <p>Let the young man know, that <hi>tho' he rejoice in his youth, and his heart cheer him in the days of his youth, and he walk in the ways of his heart, and in the ſight of his
+<pb n="15" facs="tcp:93822:12"/>
+eyes; that for all theſe things God will bring him into Judge<g ref="char:EOLhyphen"/>ment.</hi> As the Taper of an old Man is expiring by the courſe of Nature, ſo is that of the young man as liable violently to be puft out. As the one vaniſheth, ſo is the other often driven off the Stage of this World. And the number of thoſe that are ſuddenly ſnatched away in the midſt of their heady and unadviſed Courſes, do far exceed thoſe who finiſh their Courſe, and arrive to the uſual Age of Man, to <hi>David</hi>'s Threeſcore years and Ten.</p>
+            <p>Beſides theſe and many more diſcouragements to be wicked, common to youth in the Age of Giddineſs and Sin, while their natural Luſts and Corruptions are pre<g ref="char:EOLhyphen"/>dominant, There are as many and great Invitations to Goodneſs and Vertue, and <hi>to remember their Creator in the days of their youth.</hi> Nothing doth ſo indear us to God, as early Piety. As there is nothing more offenſive to him (and more prepoſterous in it ſelf) than to ſpend the Candle of our youth (our Health and Strength) in the Service of the Devil, and to put at laſt the very Snuff upon Gods Altar. St. <hi>John</hi> attained the Name of the Beloved Diſciple, and had the Honour to lean in the very Boſom of his Saviour, becauſe he gave to God the firſt-fruits of his ſtrength and younger years; and de<g ref="char:EOLhyphen"/>dicated to his Redeemer the faculties of his Soul, as well as the Members of his Body, while they were untainted and undefiled by ſin. No worſe Reception might the youth of this or any Age have with the Saviour of the World, the Fountain of all Goodneſs, the Author of all Bleſſings, if they would but ſeaſonably break off from the Chains of their Corrupt Nature and youthful Luſts (the very bands of Satan, and original of all their Mi<g ref="char:EOLhyphen"/>ſery) and devote themſelves to his Service, which is
+<pb n="16" facs="tcp:93822:13"/>
+perfect freedom here in this Life, and whoſe enjoyment in the Life to come is accompanied with fulneſs of Joy, and Pleaſures for evermore.</p>
+            <p>Having diſpatch'd what I propounded to diſcourſe on, give me leave a little farther to improve what I have ſaid, by applying the ſame more particularly to our new<g ref="char:EOLhyphen"/>begun undertaking; which faithfully perform'd by the Preachers, and gladly embraced by the People, may prove much to the Honour of God, and their own Edi<g ref="char:EOLhyphen"/>fication: by reſtoring the decay'd Devotion of theſe Ho<g ref="char:EOLhyphen"/>ly Seaſons, and the loſt Reputation of our greateſt Fe<g ref="char:EOLhyphen"/>ſtivals: Which are not rais'd to their juſt Credit and Eſteem, 'till we judg them well deſerving, and worthy of what the Church deſigns them, namely, of a pre<g ref="char:EOLhyphen"/>ceeding time of Preparation.</p>
+            <p>'Tis probable that the contempt of <hi>Lent</hi> carried away the greateſt part of the Devotion of <hi>Eaſter;</hi> and the non-obſervance of the preſent ſeaſon call'd <hi>Advent,</hi> occaſion'd much of the Extravagancy (and Debauche<g ref="char:EOLhyphen"/>ry I fear ſometimes) of <hi>Chriſtmas.</hi>
+            </p>
+            <p>If we are firm Friends to the Church, let us be hearty Lovers of its Feſtivals; (the beſt and moſt for<g ref="char:EOLhyphen"/>cible Witneſſes of Ancient Truth) And if we are in<g ref="char:EOLhyphen"/>deed hearty Lovers of its Feſtivals, let us not be Ene<g ref="char:EOLhyphen"/>mies to thoſe Means and Methods which the Church judgeth helpful to the due obſervation of them.</p>
+            <p>The Seaſons of <hi>Advent</hi> and <hi>Lent</hi> (as well as the days of <hi>Chriſtmas)</hi> have a choice Collect or Prayer ad<g ref="char:EOLhyphen"/>ded to their Ordinary Devotions; a particular mark of Reſpect, more than you will find, upon Examination, paid to any other Seaſon of the year: And which ought to be very Admonitory and Inſtructive to us all.</p>
+            <p>
+               <pb n="17" facs="tcp:93822:13"/>
+It is, ſurely, commendable in all Chriſtian people to endeavour (as well as they are able) to keep pace with their Mother the Church; and conſequently when the Church encreaſes her Devotions in Publick, (as ſhe doth at this Inſtant) for her Children to enlarge their private and more particular Exerciſes in the Cloſet: And when both do thus Religiouſly exceed, it is very ac<g ref="char:EOLhyphen"/>countable in Miniſters to add to their Labours, (as we do at this time) by quickening People to the diligent Diſcharge of the preſent duties incumbent on them; and inſtructing them, in the right manner, how to per<g ref="char:EOLhyphen"/>form them to their Spiritual Advantage.</p>
+            <p>It muſt be confeſſed, That there has been a lamen<g ref="char:EOLhyphen"/>table abuſe even of Sermons; and the multiplicity of them (as the matter has been ordered) hath in ſome ſort prov'd a grievance; (for ſome have been ſet up purpoſely to fight againſt the Church.) As the Pulpit has been uſed oftentimes (poſſibly to this very day) to inſinuate Sedition, and Diſaffection to our Gover<g ref="char:EOLhyphen"/>nours and Government: So has it been, God knows, (and we know by ſad experience) oftentimes miſchie<g ref="char:EOLhyphen"/>vouſly employ'd even to ſound out Rebellion: Inſomuch that a right Regulation of the Pulpit, in ſuch ſort that it may neither juſtle with the Altar, nor juſtle out the beſt ſort of Preaching, Catechizing, and Inſtructing of the Youth and Ignorant, hath long been, and ſtill is a very deſirable Felicity, and ſuch as in all probability might much tend to our Eſtabliſhment and Growth in Loyalty and Religion.</p>
+            <p>But there is no ground of fear (Brethren) that ſuch a manner of Preaching as the Church of <hi>England</hi> allows of, and exhorts to, (whoſe very <hi>Characteriſtick</hi> is Loy<g ref="char:EOLhyphen"/>alty and Allegiance) can be any ways injurious to
+<pb n="18" facs="tcp:93822:14"/>
+Chriſtian Duty. And that Preaching in <hi>Advent</hi> (to prepare People for the Chriſtian and Holy Obſervation of <hi>Chriſtmas),</hi> and throughout the Seaſon of <hi>Lent</hi> (to diſpoſe for the devout and affectionate Celebration of the Feaſt of our Lords Reſurrection) hath been appro<g ref="char:EOLhyphen"/>ved of, all along from the Reformation in our own Church, as well as by the Ancient Church and Chriſtians, is very eaſie to demonſtrate.</p>
+            <p>Tho poſſibly at this preſent time we may not be able to diſcover many Cathedrals which retain this Ancient Religious Practice; yet it is more than probable, if we look back no farther than the devout Days of our Re<g ref="char:EOLhyphen"/>ligious Prince King <hi>Edward</hi> the Sixth, whilſt the Flame of that Apoſtolick Zeal, which happily delivered us out of a miſerable State of deplorable Darkneſs and Igno<g ref="char:EOLhyphen"/>rance, was in being, and reign'd in the Breaſts of a ſuf<g ref="char:EOLhyphen"/>ficient Number of devout People, to make daily Com<g ref="char:EOLhyphen"/>munion, the practice of that Age, neceſſary, not only in Cathedrals, but in ſundry other places; we ſhall ſcarce find any Cathedral, or conſiderable Church that wanted them; which we may the more eaſily be induced to believe, ſince our two Metropolitical Churches had them home to our <hi>Great Rebellion,</hi> that ſwept away all ſound and truly Orthodox Sermons, Services, and Sa<g ref="char:EOLhyphen"/>craments, and the Clergy and Revenue with them.</p>
+            <p>'Tis not very likely that the Church of <hi>England</hi> (which was never agitated by a ſpirit of Oppoſition and Contradiction, nor ever rejected good things, merely becauſe the Papiſts practiſed them) would wholly re<g ref="char:EOLhyphen"/>ject this wholſom and edifying Courſe, that had ſo great Footſteps in Antiquity, and which carried with it ſo high a Reſpect to our Saviours Coming into the World, and Riſing from the Dead, (two ſpecial Works of our
+<pb n="19" facs="tcp:93822:14"/>
+Redemption), which conſtitute the Foundation Articles of our Chriſtianity; and not honour the Time of <hi>Ad<g ref="char:EOLhyphen"/>vent,</hi> no nor ſo much as <hi>Lent,</hi> with Preaching twice a Week; which in the times of St. <hi>Auguſtine</hi> and others, enjoy'd Sermons as well as Sacraments daily.</p>
+            <p>A Practice ſo Ancient and Juſtifiable, That neither the <hi>Romaniſts</hi> at home, (before they forced us from them) or others abroad in other Nations ſince, ever dared let fall to the Ground, more than they do the daily Celebration of a pretended Sacrament (tho it hath nothing of the Nature, carrying with it all the Contra<g ref="char:EOLhyphen"/>dictions imaginable, to Reaſon and the Holy Scripture) leſt they might not appear what they highly (but falſly) pretend to be, <hi>viz.</hi> ſtrict Obſervers of Antiquity.</p>
+            <p>A Practice (we may be ſure) in it ſelf ſo Reaſonable and Pious, That had it not been the Practice of our own Cathedral (as ſome alive can Witneſs, and we need go no farther than the Members of our own Body for Teſtimony) it would have been very commendable and deſirable to have made it ſo; That this Holy Sea<g ref="char:EOLhyphen"/>ſon, called <hi>Advent,</hi> (which is to <hi>Chriſtmas,</hi> in ſome re<g ref="char:EOLhyphen"/>ſpects, as <hi>Lent</hi> is to <hi>Eaſter)</hi> may want no Help, Op<g ref="char:EOLhyphen"/>portunity or Invitation, for the Exerciſe of all that De<g ref="char:EOLhyphen"/>votion which can be juſtly deſired by a devout Soul; And which the Church ſuppoſeth, and hints to us in her particular choice of Prayers, and Scriptures, home to <hi>Chriſtmas</hi> from <hi>Advent Sunday.</hi>
+            </p>
+            <p>
+               <hi>Advent Sunday</hi> is the beginning of our Eccleſiaſtick Year, or our Churches Courſe of Services; and the Church meaſures her ſeaſons by the Motion of her Sa<g ref="char:EOLhyphen"/>viour, rather than that of the Sun; for you will find if you examine your <hi>Common Prayer</hi> Books, by the Order of the Collects, Epiſtles, and Goſpels, that <hi>Advent Sun<g ref="char:EOLhyphen"/>day</hi>
+               <pb n="20" facs="tcp:93822:15"/>
+is rank'd there, as the Firſt Sunday, and the Feaſt of St. <hi>Andrew</hi> (which happens always near <hi>Advent</hi> Sun<g ref="char:EOLhyphen"/>day, and ſometimes falls on it), as the firſt Feſtival in the Year. Which among other matters may at this inſtant be an Incentive to Devotion. Whoever deſires to end well in any Enterpriſe, ſhould make it his Buſineſs to begin well.</p>
+            <p>The very ſeaſon you ſee, does even in this reſpect alſo very particularly Invite us to be Devout.</p>
+            <p>What kind of Devotions (to conclude) are moſt in<g ref="char:EOLhyphen"/>cumbent on us, at this time, and moſt proper for the Ex<g ref="char:EOLhyphen"/>erciſe of a Chriſtian, you may beſt Learn now, as at all other times, from the Choice and Order of the Church. In the Sunday Services you have ſet forth un<g ref="char:EOLhyphen"/>to you the ſeveral comings of our Saviour Chriſt; his coming in the Fleſh; his coming in the Spirit; his com<g ref="char:EOLhyphen"/>ing in the Miniſtry; and his coming to Judgment: Let ſome of thoſe imploy your thoughts, and be the Subject of your Meditations, more or leſs, at leaſt on the Sundays.</p>
+            <p>
+               <hi>The Epiſtle for Advent Sunday,</hi> which gives us our firſt Alarm (and out of which I have for the ſame reaſon choſen my Text), together with our admirable Collect peculiarly added to the Devotions of the whole ſeaſon <hi>[Almighty God give us Grace to caſt away the Works of Darkneſs, &amp;c.]</hi> do invite us to the ſtrict Exerciſe of Repentance, to labour to mortify our Corrupt Luſts; and to exerciſe (as much as in us lies) Chriſtian Grace and Vertue.</p>
+            <p>And let this be your Endeavour all the Week after; at leaſt, upon theſe two Days, which by our New Order, are deſign'd for Sermons, and which have always been eſteem'd the moſt proper Days of the Week for Penitential Exerciſes: The laſt of which <hi>(i. e. Fryday),</hi>
+               <pb n="21" facs="tcp:93822:15"/>
+is reckon'd up among the Faſting-days of the Church; and ſo commanded to be throughout the whole Year, (unleſs it fall on <hi>Chriſtmas-Day).</hi> And if the former <hi>(i. e. Wedneſday)</hi> be made ſo likewiſe for the future (as Devout Chriſtians have often made it), it will be a very Laudable Practice, and ſuitable to our preſent deſign and undertaking.</p>
+            <p>And it will moreover give Devout Souls a fair occaſion to Sympathize with the poor Perſecuted Reformed Chri<g ref="char:EOLhyphen"/>ſtians of the Kingdom of <hi>France,</hi> whoſe ſad condition I conceive we ought in eſpecial manner to Recommend to God in our Prayers; a Tribute we owe to their Miſery, whilſt they are labouring under ſo Barbarous a Perſe<g ref="char:EOLhyphen"/>cution.</p>
+            <p>Whoſoever is fully bent to Exerciſe this Duty in the moſt effectual manner, and heartily deſires to improve all occaſions, and means to advance on in Repentance in general; needs not be importuned to apply himſelf to Faſting: Since as it gains time for the exerciſe of Repen<g ref="char:EOLhyphen"/>tance, ſo it always diſpoſeth for the more ſpiritual per<g ref="char:EOLhyphen"/>formance of the Duty.</p>
+            <p>The Church does not Impoſe upon us throughout <hi>Ad<g ref="char:EOLhyphen"/>vent,</hi> (as it does throughout <hi>Lent),</hi> the duty of Faſting and Abſtinence, (for which to ſome (it is like) it will be the more grateful;) for the Devotions of <hi>Advent</hi> are, I conceive, rather of a mixt nature; partly Euchariſtical, and partly Penitential. But if any Devout and well<g ref="char:EOLhyphen"/>diſpoſed Chriſtian (who ſhall find it Commodious for his Soul) will imploy his Exerciſes of Repentance and Pray<g ref="char:EOLhyphen"/>er with Faſting, and as a Freewil-Offering to his Savi<g ref="char:EOLhyphen"/>our (for the Memory of whoſe coming in the Fleſh, we are all making Preparation), voluntarily add one day every Week to this Commendable Religious Duty, more
+<pb n="22" facs="tcp:93822:16"/>
+than the Church Impoſes on us; and not only Repent; but Faſt and Pray Devoutly in the private Cloſet, to in<g ref="char:EOLhyphen"/>creaſe his Penitence; as well as attend to a Sermon here in the Publick Church, [on all theſe Days which are now ſingled out by Authority, for Days of more than ordi<g ref="char:EOLhyphen"/>nary Aſſemblies] it will be no mighty work of Superero<g ref="char:EOLhyphen"/>gation, and a fit preparation for the Approaching Feſti<g ref="char:EOLhyphen"/>vals. The Joy whereof will be increaſed, and rendred more grateful by ſome preceding Godly Sorrow, which is inſeparable from the Genuine Exerciſe of that true Repentance which we daily pray that we may exerciſe, in our incomparable Collect proper for the Seaſon: whch will ſerve as an excellent pattern, whereby we may Regulate our Devotions; and wherewith I ſhall con<g ref="char:EOLhyphen"/>clude my Sermon:</p>
+            <q>
+               <hi>Almighty God, Give us Grace that we may caſt away the works of Darkneſs, and put upon us the Armour of Light, now in the Time,</hi> &amp;c.</q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:93822:16"/>
+            <head>
+               <hi>A Catalogue of ſome Books newly Publiſhed and Printed for</hi> Robert Clavel, <hi>at the</hi> Peacock <hi>in St.</hi> Pauls Church-Yard.</head>
+            <p>A Perfect Copy of all Summons of the Nobility to the Great Councils and Parliaments of this Realm, from the XLIX. of King <hi>Henry</hi> the third, until theſe preſent Times, With Catalogues of ſuch Noblemen as have been ſummoned to Parliament in right of their Wives, and of ſuch other Noblemen as derive their Ti<g ref="char:EOLhyphen"/>tles of Honour from their Heirs-Female from whom they are deſcended; and of ſuch Noblemens eldeſt Sons, as have been ſummoned to Parliament by ſome of their Fa<g ref="char:EOLhyphen"/>thers Titles. Extracted from Publick Records, by Sir <hi>William Dugdale,</hi> Knight, <hi>Garter</hi> Principal King of Arms.</p>
+            <p>An Hiſtorical Vindication of the Divine Right of Tithes, from Scripture, Reaſon, and the Opinion and Practice of the <hi>Jews, Gentiles</hi> and <hi>Chriſtians</hi> in all Ages. Deſigned to Supply the Omiſſions, Anſwer the Obje<g ref="char:EOLhyphen"/>ctions, and Rectifie the Miſtakes of Mr. <hi>Selden</hi>'s Hiſtory of Tithes. Part I.</p>
+            <p>An Hiſtorical Vindication of the Divine Right of Tithes. Which is further proved by Scripture and An<g ref="char:EOLhyphen"/>tiquity, and illuſtrated by the Solemn Conſecration and great Convenience of them. With an Anſwer to the Objections of other Authors againſt them. Part II. By <hi>Tho. Comber,</hi> D. D. Precentor of <hi>York.</hi>
+            </p>
+            <p>A Diſcourſe concerning Excommunication. By <hi>Tho. Comber</hi> D. D. Precentor of <hi>York.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:93822:17" rendition="simple:additions"/>
+Counſel and Directions Divine and Moral: In plain and Familiar Letters of Advice from a Divine of the Church of <hi>England,</hi> to a Young Gentleman, his Nephew, ſoon after his Admiſſion into a College in <hi>OXFORD.</hi>
+            </p>
+            <p>A Treatiſe of Spouſals or Matrimonial Contracts, wherein all the Queſtions relating to that Subject, are ingeniouſly Debated and Reſolved by the late Famous and Learned Mr. <hi>Henry Swinborne,</hi> Author of the Trea<g ref="char:EOLhyphen"/>tiſe of Wills and Teſtaments.</p>
+            <p>
+               <hi>Summa Logicae partim ex optimis quibuſque Autoribus, tum Antiquis, tum Recentioribus, Collecta maxime autem ex uſu, &amp; ad uſum, Comparata &amp; Exemplis omnium Gene<g ref="char:EOLhyphen"/>mur abunde.</hi>
+            </p>
+            <p>The Order of the Inſtallation of <hi>Henry</hi> Duke of <hi>Nor<g ref="char:EOLhyphen"/>folk, Henry</hi> Earl of <hi>Peterborow,</hi> and <hi>Laurence</hi> Earl of <hi>Rocheſter,</hi> Knights and Companions of the moſt Noble Order of the Garter, in the Royal Chappel of St. <hi>George</hi> at <hi>Windſor, July</hi> 22. 1685.</p>
+            <pb facs="tcp:93822:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
